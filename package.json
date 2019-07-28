@@ -1,7 +1,7 @@
 {
   "name": "wocss-tools-resets",
   "version": "2.0.1",
-  "description": "wocss' resets mixins",
+  "description": "[DEPRECATED] wocss' resets mixins",
   "main": "_tools.resets.scss",
   "repository": {
     "type": "git",

@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> This module has been moved to the monorepo [wocss](https://github.com/wocss/wocss/tree/master/packages/tools.resets#readme) (and renamed to `@wocss/tools-resets`)
+
 # RESETS
 
 > Tool
